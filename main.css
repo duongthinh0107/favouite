@@ -1,31 +1,28 @@
-body{
-    background-color: #2196F3;
+body {
+    background-color: #2196f3;
 }
-.label-blue{
+.label-blue {
     color: blue;
-text-align: right;
+    text-align: right;
 }
-th{
-
+th {
     text-align: center;
     background-color: red;
     color: white;
 }
-form{
-    width: 600px;
-    background-color:white;
+form {
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
 }
-table{
-    width: 600px;
-}
-label{
-    margin-left: 10px;
-}
-td{
-    color: orange;
-    width:120px;
+table {
+    width: 100%;
 
 }
-input[type='checkbox']{
-    margin-left: 10px;
+
+td {
+    color: orange;
+    width: 100px;
 }
+
